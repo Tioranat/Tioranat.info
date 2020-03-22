@@ -2,12 +2,13 @@
   "name": "tioranat/tioranat.info",
   "type": "project",
   "description": "Tioranat.info database",
-  "authors": [
-    {
-      "name": "Kay-Uwe Schenke",
-      "homepage": "https://www.tioranat.info/blog"
-    }
-  ],
   "version": "0.1.0",
-  "license": "MIT"
+  "keywords": [
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.1.3"
+  },
+  "minimum-stability": "dev"
+
 }

@@ -3,23 +3,14 @@
   "type": "project",
   "description": "Tioranat.info database",
   "version": "0.1.0",
-  "keywords": [
-  ],
   "license": "MIT",
   "require": {
     "php": "^7.1.3"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^7.5"
   },
   "config": {
     "optimize-autoloader": true,
     "preferred-install": "dist",
     "sort-packages": true
-  },
-  "autoload": {
-    "psr-4": {
-    },
   },
   "minimum-stability": "dev",
   "prefer-stable": true

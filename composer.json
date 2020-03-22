@@ -2,6 +2,7 @@
   "name": "tioranat/tioranat-info",
   "type": "project",
   "description": "Tioranat.info database",
+  "version": "0.1.0",
   "keywords": [
   ],
   "license": "MIT",

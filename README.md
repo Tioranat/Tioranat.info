@@ -1,4 +1,6 @@
 # Tioranat.info
 
-Datenbank zur Ablage von Testen und Strcturen im JSON Format.
+Datenbank zur Ablage von 
+Texten und Strukturen im 
+JSON Format.
 

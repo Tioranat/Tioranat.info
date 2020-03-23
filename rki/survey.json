@@ -1,0 +1,125 @@
+{
+  "status": {
+    "date": "2020-03-22"
+  },
+  "survey": [
+    {
+      "name": "QuestionContactPerson",
+      "type": "radio",
+      "answers": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "name": "QuestionRiskArea",
+      "type": "radiocheck",
+      "skip": "no",
+      "open": "maybe",
+      "answers": [
+        "egypt",
+        "iran",
+        "italy",
+        "tirol",
+        "madrid",
+        {
+          "SouthKorea": [
+            "Gyeongsangbuk",
+            "NordGyeongsang"
+          ]
+        },
+        {
+          "France": [
+            "Elsass",
+            "Lothringen",
+            "ChampagneArdenne"
+          ]
+        },
+        {
+          "Germany": [
+            "heinsberg"
+          ]
+        },
+        {
+          "USA": [
+            "California",
+            "Wahsington",
+            "NewYork"
+          ]
+        },
+        {
+          "China": [
+            "Zhejian",
+            "Hubei",
+            "Wuhang",
+            "Taizhou",
+            "Ningbo",
+            "Hangzhou",
+            "Wenzau"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QuestionAge",
+      "type": "radio",
+      "answers": [
+        "age20",
+        "age40",
+        "age60",
+        "age80"
+      ]
+    },
+    {
+      "name": "QuestionSymptoms",
+      "type": "radioradio5",
+      "skip": "no",
+      "open": "maybe",
+      "answers": [
+        {
+          "Fever": 5
+        },
+        {
+          "DryCough": 5
+        },
+        {
+          "ShortBreath": 2
+        },
+        {
+          "RunnyNose": 1
+        },
+        {
+          "StuffyNose": 1
+        },
+        {
+          "Sneezing": 0
+        },
+        {
+          "SoreThroat": 5
+        },
+        {
+          "Headache": 5
+        },
+        {
+          "MuscleAches": 5
+        },
+        {
+          "LossOfTaste": 3
+        },
+        {
+          "Diarrhea": 1
+        },
+        {
+          "Fatigue": 4
+        },
+        {
+          "SevereCourse": 2
+        },
+        {
+          "PhlegmBuildup": 1
+        }
+      ]
+    }
+  ]
+}
+

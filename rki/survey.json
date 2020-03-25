@@ -1,6 +1,6 @@
 {
   "status": {
-    "date": "2020-03-22"
+    "date": "2020-03-25"
   },
   "survey": [
     {
@@ -99,81 +99,66 @@
       ]
     },
     {
-      "name": "QuestionSymptoms",
-      "type": "radioradio5",
-      "skip": "no",
-      "open": "notsure",
+      "name": "QuestionFever",
+      "type": "radio",
       "group": "InfectionRisk",
       "answers": [
         {
-          "answer": "Fever",
-          "weight": 5,
-          "target": 5
+          "answer": "fever37",
+          "weight": 0
         },
         {
-          "answer": "DryCough",
-          "weight": 5,
-          "target": 5
+          "answer": "fever38",
+          "weight": 1
         },
         {
-          "answer": "ShortBreath",
-          "weight": 3,
-          "target": 2
+          "answer": "fever39",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "QuestionShortBreath",
+      "type": "radio",
+      "group": "InfectionRisk",
+      "answers": [
+        {
+          "answer": "no",
+          "weight": 0
         },
         {
-          "answer": "RunnyNose",
-          "weight": 1,
-          "target": 1
+          "answer": "yes",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "QuestionDryCough",
+      "type": "radio",
+      "group": "InfectionRisk",
+      "answers": [
+        {
+          "answer": "no",
+          "weight": 0
         },
         {
-          "answer": "StuffyNose",
-          "weight": 1,
-          "target": 1
+          "answer": "yes",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "QuestionLossOfTaste",
+      "type": "radio",
+      "group": "InfectionRisk",
+      "answers": [
+        {
+          "answer": "no",
+          "weight": 0
         },
         {
-          "answer": "Sneezing",
-          "weight": 0,
-          "target": 0
-        },
-        {
-          "answer": "SoreThroat",
-          "weight": 0,
-          "target": 5
-        },
-        {
-          "answer": "Headache",
-          "weight": 0,
-          "target": 5
-        },
-        {
-          "answer": "MuscleAches",
-          "weight": 0,
-          "target": 5
-        },
-        {
-          "answer": "LossOfTaste",
-          "weight": 0,
-          "target": 3
-        },
-        {
-          "answer": "Diarrhea",
-          "weight": 0,
-          "target": 1
-        },
-        {
-          "answer": "Fatigue",
-          "weight": 0,
-          "target": 4
-        },
-        {
-          "answer": "SevereCourse",
-          "weight": 0,
-          "target": 2
-        },
-        {
-          "answer": "PhlegmBuildup",
-          "weight": 0,
-          "target": 1
+          "answer": "yes",
+          "weight": 1
         }
       ]
     }

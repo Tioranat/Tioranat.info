@@ -1,167 +1,189 @@
 {
-  "status": {
-    "date": "2020-03-25"
-  },
-  "survey": [
-    {
-      "name": "QuestionContactPerson",
-      "type": "radio",
-      "group": "InfectionRisk",
-      "answers": [
-        {
-          "answer": "yes",
-          "weight": 10
+    "questions": {
+        "QuestionSmoker": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
         },
-        {
-          "answer": "no",
-          "weight": 0
+        "QuestionLung": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionDiabetes": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        "QuestionHeart": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionAdipositas": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        "QuestionPregnancy": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 0,
+                "no": 0,
+                "notsure": 0
+            }
+        },
+        "QuestionCortison": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionImunSuppressiva": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionInfluenzaVaccination": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        "QuestionArticularRheumatism": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        "QuestionChemotherapy": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionSneezing": {
+            "group": "RiskGroup",
+            "answers": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        "QuestionContact": {
+            "group": "InfectionRisk",
+            "answers": {
+                "never": 0,
+                "day1ago": 10,
+                "day3ago": 10,
+                "day7ago": 10,
+                "day14ago": 10
+            }
+        },
+        "QuestionFeverLast24h": {
+            "group": "InfectionRisk",
+            "answers": {
+                "fever37": 5,
+                "fever38": 7,
+                "fever39": 10
+            }
+        },
+        "QuestionFeverLast4d": {
+            "group": "InfectionRisk",
+            "answers": {
+                "fever37": 5,
+                "fever38": 7,
+                "fever39": 10
+            }
+        },
+        "QuestionChills": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        "QuestionFatigue": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 4,
+                "no": 0,
+                "notsure": 2
+            }
+        },
+        "QuestionBodyAches": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        "QuestionDryCough": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionRunnyNose": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        "QuestionDiariah": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        "QuestionSoreThroat": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        "QuestionHeadAche": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        "QuestionShortBreath": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        "QuestionLossOfSmellTaste": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 4,
+                "no": 0
+            }
         }
-      ]
     },
-    {
-      "name": "QuestionSmoker",
-      "type": "radio",
-      "group": "RiskGroup",
-      "answers": [
-        {
-          "answer": "yes",
-          "weight": 10
-        },
-        {
-          "answer": "no",
-          "weight": 0
-        }
-      ]
-    },
-    {
-      "name": "QuestionRiskArea",
-      "type": "radiocheck",
-      "weight": 4,
-      "group": "InfectionRisk",
-      "skip": "no",
-      "open": "notsure",
-      "answers": [
-        "Egypt",
-        "Iran",
-        "Italy",
-        "Tirol",
-        "SpainMadrid",
-        "SouthKoreaNordGyeongsang",
-        {
-          "France": [
-            "Elsass",
-            "Lothringen",
-            "ChampagneArdenne"
-          ]
-        },
-        "GermanyHeinsberg",
-        {
-          "USA": [
-            "California",
-            "Washington",
-            "NewYork"
-          ]
-        },
-        {
-          "China": [
-            "Zhejian",
-            "Hubei",
-            "Wuhang",
-            "Taizhou",
-            "Ningbo",
-            "Hangzhou",
-            "Wenzau"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "QuestionAge",
-      "type": "radio",
-      "group": "RiskGroup",
-      "answers": [
-        {
-          "answer": "age20",
-          "weight": 0
-        },
-        {
-          "answer": "age40",
-          "weight": 1
-        },
-        {
-          "answer": "age60",
-          "weight": 3
-        },
-        {
-          "answer": "age80",
-          "weight": 5
-        }
-      ]
-    },
-    {
-      "name": "QuestionFever",
-      "type": "radio",
-      "group": "InfectionRisk",
-      "answers": [
-        {
-          "answer": "fever37",
-          "weight": 0
-        },
-        {
-          "answer": "fever38",
-          "weight": 1
-        },
-        {
-          "answer": "fever39",
-          "weight": 3
-        }
-      ]
-    },
-    {
-      "name": "QuestionShortBreath",
-      "type": "radio",
-      "group": "InfectionRisk",
-      "answers": [
-        {
-          "answer": "no",
-          "weight": 0
-        },
-        {
-          "answer": "yes",
-          "weight": 1
-        }
-      ]
-    },
-    {
-      "name": "QuestionDryCough",
-      "type": "radio",
-      "group": "InfectionRisk",
-      "answers": [
-        {
-          "answer": "no",
-          "weight": 0
-        },
-        {
-          "answer": "yes",
-          "weight": 1
-        }
-      ]
-    },
-    {
-      "name": "QuestionLossOfTaste",
-      "type": "radio",
-      "group": "InfectionRisk",
-      "answers": [
-        {
-          "answer": "no",
-          "weight": 0
-        },
-        {
-          "answer": "yes",
-          "weight": 1
-        }
-      ]
+    "status": {
+        "date": "2020-03-29"
     }
-  ]
 }
-

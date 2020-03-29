@@ -65,23 +65,16 @@
             }
         },
         "QuestionArticularRheumatism": {
-            "group": "InfectionRisk",
+            "group": "RiskGroup",
             "answers": {
                 "yes": 3,
                 "no": 0
             }
         },
         "QuestionChemotherapy": {
-            "group": "InfectionRisk",
-            "answers": {
-                "yes": 5,
-                "no": 0
-            }
-        },
-        "QuestionSneezing": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 0,
+                "yes": 5,
                 "no": 0
             }
         },
@@ -98,17 +91,17 @@
         "QuestionFeverLast24h": {
             "group": "InfectionRisk",
             "answers": {
-                "fever37": 5,
-                "fever38": 7,
-                "fever39": 10
+                "fever37": 7,
+                "fever38": 8,
+                "fever39": 9
             }
         },
         "QuestionFeverLast4d": {
             "group": "InfectionRisk",
             "answers": {
-                "fever37": 5,
-                "fever38": 7,
-                "fever39": 10
+                "fever37": 7,
+                "fever38": 8,
+                "fever39": 9
             }
         },
         "QuestionChills": {
@@ -121,7 +114,7 @@
         "QuestionFatigue": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 4,
+                "yes": 5,
                 "no": 0,
                 "notsure": 2
             }
@@ -129,21 +122,21 @@
         "QuestionBodyAches": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 2,
+                "yes": 3,
                 "no": 0
             }
         },
         "QuestionDryCough": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 5,
+                "yes": 8,
                 "no": 0
             }
         },
         "QuestionRunnyNose": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 1,
+                "yes": 0,
                 "no": 0
             }
         },
@@ -157,7 +150,7 @@
         "QuestionSoreThroat": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 2,
+                "yes": 1,
                 "no": 0
             }
         },
@@ -171,14 +164,21 @@
         "QuestionShortBreath": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 2,
+                "yes": 5,
                 "no": 0
             }
         },
         "QuestionLossOfSmellTaste": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 4,
+                "yes": 5,
+                "no": 0
+            }
+        },
+        "QuestionSneezing": {
+            "group": "InfectionRisk",
+            "answers": {
+                "yes": 0,
                 "no": 0
             }
         }

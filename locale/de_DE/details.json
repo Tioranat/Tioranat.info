@@ -11,7 +11,7 @@
     "DetailsQuestionDryCough": "   ",
     "DetailsQuestionFatigue": "    ",
     "DetailsQuestionFeverLast24h": "  ",
-    "DetailsQuestionFeverLast4d": "Nehmen Sie dabei die typische Situation in der Zeit.",
+    "DetailsQuestionFeverLast4d": "Nehmen Sie dabei die typische Situation in dieser Zeit.",
     "DetailsQuestionHeadAche": "  ",
     "DetailsQuestionHeart": "  ",
     "DetailsQuestionImunSuppressiva": "     ",
@@ -21,7 +21,8 @@
     "DetailsQuestionPregnancy": "  ",
     "DetailsQuestionRunnyNose": "  ",
     "DetailsQuestionShortBreath": "  ",
-    "DetailsQuestionSmoker": "Die Weltgesundheitsorganisation (WHO) spricht aber ab 20 Zigaretten pro Tag von einem \"starken Raucher\".",
+    "DetailsQuestionSmoker": "  ",
     "DetailsQuestionSneezing": "  ",
-    "DetailsQuestionSoreThroat": "  "
+    "DetailsQuestionSoreThroat": "  ",
+    "DetailsQuestionTravelDaysAgo": "Zu den Risikogebieten gehört Italien, Spanien, Frankreich, China"
 }

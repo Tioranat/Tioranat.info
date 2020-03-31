@@ -3,35 +3,35 @@
         "QuestionSmoker": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
         "QuestionLung": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
         "QuestionDiabetes": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 4,
+                "yes": 20,
                 "no": 0
             }
         },
         "QuestionHeart": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
         "QuestionAdipositas": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 4,
+                "yes": 5,
                 "no": 0
             }
         },
@@ -46,14 +46,14 @@
         "QuestionCortison": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
         "QuestionImunSuppressiva": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
@@ -61,20 +61,20 @@
             "group": "RiskGroup",
             "answers": {
                 "yes": 0,
-                "no": 1
+                "no": 10
             }
         },
         "QuestionArticularRheumatism": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 3,
+                "yes": 15,
                 "no": 0
             }
         },
         "QuestionChemotherapy": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 5,
+                "yes": 20,
                 "no": 0
             }
         },
@@ -82,16 +82,26 @@
             "group": "InfectionRisk",
             "answers": {
                 "never": 0,
-                "day1ago": 3,
-                "day3ago": 8,
-                "day7ago": 10,
-                "day14ago": 1
+                "day1ago": 30,
+                "day3ago": 50,
+                "day7ago": 50,
+                "day14ago": 10
+            }
+        },
+        "QuestionTravelDaysAgo": {
+            "group": "InfectionRisk",
+            "answers": {
+                "never": 0,
+                "day1ago": 2,
+                "day3ago": 2,
+                "day7ago": 2,
+                "day14ago": 0
             }
         },
         "QuestionFeverLast24h": {
             "group": "InfectionRisk",
             "answers": {
-                "fever37": 2,
+                "fever37": 0,
                 "fever38": 3,
                 "fever39": 8
             }
@@ -99,7 +109,7 @@
         "QuestionFeverLast4d": {
             "group": "InfectionRisk",
             "answers": {
-                "fever37": 2,
+                "fever37": 0,
                 "fever38": 3,
                 "fever39": 8
             }
@@ -129,7 +139,7 @@
         "QuestionDryCough": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 30,
+                "yes": 20,
                 "no": 0
             }
         },
@@ -184,6 +194,6 @@
         }
     },
     "status": {
-        "date": "2020-03-29"
+        "date": "2020-03-31"
     }
 }

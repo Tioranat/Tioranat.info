@@ -1,5 +1,6 @@
 {
     "DetailsQuestionAdipositas": "  ",
+    "DetailsQuestionAge": "*DetailsQuestionAge*",
     "DetailsQuestionArticularRheumatism": "  ",
     "DetailsQuestionBodyAches": "  ",
     "DetailsQuestionChemotherapy": "  ",
@@ -21,8 +22,8 @@
     "DetailsQuestionPregnancy": "  ",
     "DetailsQuestionRunnyNose": "  ",
     "DetailsQuestionShortBreath": "  ",
-    "DetailsQuestionSmoker": "  ",
+    "DetailsQuestionSmoker": "*DetailsQuestionSmoker*",
     "DetailsQuestionSneezing": "  ",
     "DetailsQuestionSoreThroat": "  ",
-    "DetailsQuestionTravelDaysAgo": "Zu den Risikogebieten gehört Italien, Spanien, Frankreich, China"
+    "DetailsQuestionTravelDaysAgo": "Zu den Risikogebieten gehört Italien, Spanien, Österreich, Frankreich, China"
 }

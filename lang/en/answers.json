@@ -1,0 +1,19 @@
+{
+    "age00": "0-20 years ",
+    "age20": "20-40 years",
+    "age40": "40-60 years",
+    "age60": "60-80 years",
+    "age80": "over 80 years",
+    "day14ago": "more than 14 days ago",
+    "day1ago": "within the last 24 hours",
+    "day3ago": "within the last 7 days",
+    "day7ago": "more than 7 days ago",
+    "fever37": "no fever",
+    "fever38": "38° Celsius or more fever",
+    "fever39": "39° Celsius or more fever",
+    "maybe": "maybe",
+    "never": "never",
+    "no": "no",
+    "notsure": "unsure",
+    "yes": "yes"
+}

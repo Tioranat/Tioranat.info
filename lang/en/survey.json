@@ -1,0 +1,12 @@
+{
+    "LanguageName": "English",
+    "BecomeTranslator": "Unfortunately the questionnaire is not yet available in this language. If you are able to translate texts from German\/English into your language then please contact us by _email_.",
+    "HeadLine": "Patient self-assessment",
+    "Introduction": "Do you have a COVID-19 infection? This questionnaire will help you to assess your risk. Use the PDF, which you can print out at the end, as a template for a telephone consultation with your doctor. ",
+    "InfectionRiskHeader": "Symptoms",
+    "InfectionRiskDetails": "Your assessment of your current health status and contact with the COVID-19 virus",
+    "InfectionCallToAction": "*InfectionCallToAction*",
+    "RiskGroupHeader": "Risk Group",
+    "RiskGroupDetails": "Your current health status with regards to those factors which may pose an additional risk when infected with the COVID-19 virus.",
+    "RiskGroupCallToAction": "*RiskGroupCallToAction*"
+}

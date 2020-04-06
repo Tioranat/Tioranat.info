@@ -1,0 +1,11 @@
+{
+    "LanguageName": "italiano",
+    "HeadLine": "*HeadLine*",
+    "Introduction": "*Introduction*",
+    "InfectionRiskHeader": "*InfectionRiskHeader*",
+    "InfectionRiskDetails": "*InfectionRiskDetails*",
+    "InfectionCallToAction": "*InfectionCallToAction*",
+    "RiskGroupHeader": "*RiskGroupHeader*",
+    "RiskGroupDetails": "*RiskGroupDetails*",
+    "RiskGroupCallToAction": "*RiskGroupCallToAction*"
+}

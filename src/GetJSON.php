@@ -1,8 +1,7 @@
 <?php
 
+namespace Tioranat\Controller\Translation;
 
-
-namespace App\Controller;
 
 class GetJSON {
     

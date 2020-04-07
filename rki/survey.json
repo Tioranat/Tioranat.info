@@ -129,8 +129,8 @@
         "QuestionChills": {
             "group": "InfectionRisk",
             "answers": {
-                "yes": 0,
-                "no": 0
+                "no": 0,
+                "yes": 0
             }
         },
         "QuestionFatigue": {
@@ -206,6 +206,6 @@
         }
     },
     "status": {
-        "date": "2020-04-06"
+        "date": "2020-04-07"
     }
 }

@@ -6,13 +6,20 @@
     "InfectionRiskHeader": "Symptome  und Kontakt",
     "InfectionRiskDetails": "Ihre Einschätzung zu Ihrem aktuellen Gesundheitszustand und Kontakt mit dem COVID-19 Virus.",
     "InfectionRiskGreen": "Gratulation: So wie es aussieht sind Sie gesund - passen Sie gut auf sich auf und schützen Sie sich und andere. ",
-    "InfectionRiskYellow": "Schonen Sie sich und beobachten Sie ihre Symptome. ",
-    "InfectionRiskRed": "Schützen Sie sich und Ihre Mitmenschen durch Isolation und wenden Sie sich telefonisch an ihre lokale Beratungsstelle. Diese finden Sie auf ... ",
+    "InfectionRiskYellow": "Schonen Sie sich und beobachten Sie ihre Symptome. Wenn diese sich verschlimmern oder Sie unsicher sind, fragen Sie ihren Arzt.  ",
+    "InfectionRiskRed": "Schützen Sie sich und Ihre Mitmenschen durch Isolation und wenden Sie sich telefonisch an ihre lokale Beratungsstelle. Diese finden Sie auf tioranat.info",
     "RiskGroupHeader": "Risikogruppe",
     "RiskGroupDetails": "Ihre Einschätzung zu Ihrem aktueller Gesundheitszustand in Bezug auf die Faktoren, die bei einer Infektion mit dem COVID-19-Virus zusätzliche Risiken darstellen könnten.",
     "RiskGroupGreen": "Wunderbar! Sie sind laut Ihrer Einschätzung gesund. Passen Sie gut auf sich auf. ",
     "RiskGroupYellow": "Laut Ihrer Einschätzung haben Sie einige Risiken. Achten Sie auf sich und bleiben Sie zu Hause. ",
     "RiskGroupRed": "Bitte schützen Sie sich und Ihre Mitbewohner vor Ansteckung. Bleiben Sie auf jeden Fall zu Hause. ",
     "TermQuestion": "Frage",
-    "TermAnswer": "Antwort"
+    "TermAnswer": "Antwort",
+    "QuestionAddYourName": "Ihr Name",
+    "AddYourNamePrivacyMessage": "Diese Daten sind nur für Sie sichtbar, und auf dem Ausdruck hilfreich wenn Sie diesen zur Sprechstunden mitnehmen. ",
+    "PleaseEnterYourText": "Persönliche Infos, Medikamente von denen Ihr Arzt \/ Ärztin wissen sollte.",
+    "ButtonYes": "Ja",
+    "ButtonNo": "Nein",
+    "ButtonSkip": "Überspringen",
+    "ButtonNext": "Weiter"
 }

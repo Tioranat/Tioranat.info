@@ -16,7 +16,7 @@
     },
     "QuestionBodyAches": {
         "no": "0",
-        "yes": "0"
+        "yes": "3"
     },
     "QuestionChemotherapy": {
         "no": "0",
@@ -52,8 +52,8 @@
     },
     "QuestionFatigue": {
         "no": "0",
-        "notsure": "0",
-        "yes": "0"
+        "notsure": "1",
+        "yes": "3"
     },
     "QuestionFeverLast24h": {
         "fever37": "0",
@@ -95,7 +95,7 @@
         "yes": "0"
     },
     "QuestionRunnyNose": {
-        "no": "4",
+        "no": "1",
         "yes": "0"
     },
     "QuestionShortBreath": {

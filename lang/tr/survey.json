@@ -1,9 +1,18 @@
 {
     "LanguageName": "Türkçe",
+    "BecomeTranslator": "\\nMaalesef anket bu dilde henüz mevcut değil. Metinleri Almanca \/ İngilizce'den kendi dilinize çevirebiliyorsanız, lütfen _email_ ile bize ulaşın.",
     "HeadLine": "*HeadLine*",
     "Introduction": "*Introduction*",
     "InfectionRiskHeader": "*InfectionRiskHeader*",
     "InfectionRiskDetails": "*InfectionRiskDetails*",
+    "InfectionRiskGreen": "*InfectionRiskGreen*",
+    "InfectionRiskYellow": "*InfectionRiskYellow*",
+    "InfectionRiskRed": "*InfectionRiskRed*",
     "RiskGroupHeader": "*RiskGroupHeader*",
-    "RiskGroupDetails": "*RiskGroupDetails*"
+    "RiskGroupDetails": "*RiskGroupDetails*",
+    "RiskGroupGreen": "*RiskGroupGreen*",
+    "RiskGroupYellow": "*RiskGroupYellow*",
+    "RiskGroupRed": "*RiskGroupRed*",
+    "TermQuestion": "*TermQuestion*",
+    "TermAnswer": "*TermAnswer*"
 }

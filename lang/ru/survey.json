@@ -1,9 +1,18 @@
 {
     "LanguageName": "русский",
+    "BecomeTranslator": "К сожалению, анкета на этом языке пока недоступна. Если Вы можете перевести тексты с немецкого\/английского на Ваш язык, пожалуйста, свяжитесь с нами по _email_.",
     "HeadLine": "*HeadLine*",
     "Introduction": "*Introduction*",
     "InfectionRiskHeader": "*InfectionRiskHeader*",
     "InfectionRiskDetails": "*InfectionRiskDetails*",
+    "InfectionRiskGreen": "*InfectionRiskGreen*",
+    "InfectionRiskYellow": "*InfectionRiskYellow*",
+    "InfectionRiskRed": "*InfectionRiskRed*",
     "RiskGroupHeader": "*RiskGroupHeader*",
-    "RiskGroupDetails": "*RiskGroupDetails*"
+    "RiskGroupDetails": "*RiskGroupDetails*",
+    "RiskGroupGreen": "*RiskGroupGreen*",
+    "RiskGroupYellow": "*RiskGroupYellow*",
+    "RiskGroupRed": "*RiskGroupRed*",
+    "TermQuestion": "*TermQuestion*",
+    "TermAnswer": "*TermAnswer*"
 }

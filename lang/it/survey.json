@@ -1,9 +1,18 @@
 {
     "LanguageName": "italiano",
+    "BecomeTranslator": "Purtroppo il questionario non è ancora disponibile in questa lingua. Se è in grado di tradurre testi dal tedesco\/inglese nella sua lingua, la preghiamo di contattarci tramite _email_.",
     "HeadLine": "*HeadLine*",
     "Introduction": "*Introduction*",
     "InfectionRiskHeader": "*InfectionRiskHeader*",
     "InfectionRiskDetails": "*InfectionRiskDetails*",
+    "InfectionRiskGreen": "*InfectionRiskGreen*",
+    "InfectionRiskYellow": "*InfectionRiskYellow*",
+    "InfectionRiskRed": "*InfectionRiskRed*",
     "RiskGroupHeader": "*RiskGroupHeader*",
-    "RiskGroupDetails": "*RiskGroupDetails*"
+    "RiskGroupDetails": "*RiskGroupDetails*",
+    "RiskGroupGreen": "*RiskGroupGreen*",
+    "RiskGroupYellow": "*RiskGroupYellow*",
+    "RiskGroupRed": "*RiskGroupRed*",
+    "TermQuestion": "*TermQuestion*",
+    "TermAnswer": "*TermAnswer*"
 }

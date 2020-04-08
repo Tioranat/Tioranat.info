@@ -137,15 +137,15 @@
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "notsure": 0,
-                "yes": 0
+                "notsure": 1,
+                "yes": 3
             }
         },
         "QuestionBodyAches": {
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "yes": 0
+                "yes": 3
             }
         },
         "QuestionDryCough": {
@@ -158,7 +158,7 @@
         "QuestionRunnyNose": {
             "group": "InfectionRisk",
             "answers": {
-                "no": 4,
+                "no": 1,
                 "yes": 0
             }
         },

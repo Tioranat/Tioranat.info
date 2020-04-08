@@ -1,7 +1,7 @@
 {
     "LanguageName": "Türkçe",
-    "BecomeTranslator": "\\nMaalesef anket bu dilde henüz mevcut değil. Metinleri Almanca \/ İngilizce'den kendi dilinize çevirebiliyorsanız, lütfen _email_ ile bize ulaşın.",
-    "HeadLine": "*HeadLine*",
+    "BecomeTranslator": "Ne yazık ki, anket bu dilde henüz mevcut değil. \\nAlmanca veya İngilizce metinleri kendi dilinize çevirebiliyorsanız, _email_ aracılığıyla bize ulaşın.",
+    "HeadLine": "Hastanın öz değerlendirmesi",
     "Introduction": "*Introduction*",
     "InfectionRiskHeader": "*InfectionRiskHeader*",
     "InfectionRiskDetails": "*InfectionRiskDetails*",
@@ -14,5 +14,12 @@
     "RiskGroupYellow": "*RiskGroupYellow*",
     "RiskGroupRed": "*RiskGroupRed*",
     "TermQuestion": "*TermQuestion*",
-    "TermAnswer": "*TermAnswer*"
+    "TermAnswer": "*TermAnswer*",
+    "QuestionAddYourName": "*QuestionAddYourName*",
+    "AddYourNamePrivacyMessage": "*AddYourNamePrivacyMessage*",
+    "PleaseEnterYourText": "*PleaseEnterYourText*",
+    "ButtonYes": "*ButtonYes*",
+    "ButtonNo": "*ButtonNo*",
+    "ButtonSkip": "*ButtonSkip*",
+    "ButtonNext": "*ButtonNext*"
 }

@@ -53,7 +53,7 @@
     "QuestionFatigue": {
         "no": "0",
         "notsure": "1",
-        "yes": "3"
+        "yes": "10"
     },
     "QuestionFeverLast24h": {
         "fever37": "0",

@@ -1,8 +1,8 @@
 {
-    "LanguageName": "Deutsch",
+    "LanguageName": "deutsch",
     "BecomeTranslator": "Leider gibt es den Fragebogen noch nicht in dieser Sprache. Wenn Sie Texte von Deutsch\/Englisch in Ihre Sprache übersetzen können dann melden Sie sich per _email_ bei uns.",
     "HeadLine": "Patienten-Selbsteinschätzung ",
-    "Introduction": "Haben Sie eine COVID-19-Infektion? Dieser Fragebogen wird Ihnen helfen, Ihr Risiko zu bewerten. Ihre Angaben sind nur in Browser und damit privat. Verwenden Sie das PDF, das Sie am Ende ausdrucken können, als Leitfaden für eine telefonische Beratung mit Ihrem Arzt.",
+    "Introduction": "Haben Sie eine COVID-19-Infektion? Dieser Fragebogen wird Ihnen helfen, Ihr Risiko zu bewerten. Ihre Angaben verbleiben im Browser selbst und sind damit privat. Verwenden Sie das PDF, das Sie am Ende ausdrucken können, als Leitfaden für eine telefonische Beratung mit Ihrem Arzt.",
     "InfectionRiskHeader": "Symptome  und Kontakt",
     "InfectionRiskDetails": "Ihre Einschätzung zu Ihrem aktuellen Gesundheitszustand und Kontakt mit dem COVID-19 Virus.",
     "InfectionRiskGreen": "Gratulation: So wie es aussieht sind Sie gesund - passen Sie gut auf sich auf und schützen Sie sich und andere. ",

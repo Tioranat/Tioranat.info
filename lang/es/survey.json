@@ -1,9 +1,9 @@
 {
-    "LanguageName": "Español",
+    "LanguageName": "español",
     "BecomeTranslator": "Lamentablemente, el cuestionario todavía no está disponible en este idioma. Si puede traducir textos del alemán\/inglés a su idioma, por favor, póngase en contacto con nosotros por _email_.",
-    "HeadLine": "*HeadLine*",
+    "HeadLine": "Autoevaluación del paciente",
     "Introduction": "*Introduction*",
-    "InfectionRiskHeader": "*InfectionRiskHeader*",
+    "InfectionRiskHeader": "Síntomas y contacto",
     "InfectionRiskDetails": "*InfectionRiskDetails*",
     "InfectionRiskGreen": "*InfectionRiskGreen*",
     "InfectionRiskYellow": "*InfectionRiskYellow*",
@@ -14,5 +14,12 @@
     "RiskGroupYellow": "*RiskGroupYellow*",
     "RiskGroupRed": "*RiskGroupRed*",
     "TermQuestion": "*TermQuestion*",
-    "TermAnswer": "*TermAnswer*"
+    "TermAnswer": "*TermAnswer*",
+    "QuestionAddYourName": "*QuestionAddYourName*",
+    "AddYourNamePrivacyMessage": "*AddYourNamePrivacyMessage*",
+    "PleaseEnterYourText": "*PleaseEnterYourText*",
+    "ButtonYes": "*ButtonYes*",
+    "ButtonNo": "*ButtonNo*",
+    "ButtonSkip": "*ButtonSkip*",
+    "ButtonNext": "*ButtonNext*"
 }

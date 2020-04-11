@@ -60,8 +60,8 @@
         "QuestionInfluenzaVaccination": {
             "group": "RiskGroup",
             "answers": {
-                "yes": 0,
-                "no": 10
+                "no": 10,
+                "yes": 0
             }
         },
         "QuestionArticularRheumatism": {
@@ -130,7 +130,7 @@
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "yes": 0
+                "yes": 2
             }
         },
         "QuestionFatigue": {
@@ -206,6 +206,6 @@
         }
     },
     "status": {
-        "date": "2020-04-09"
+        "date": "2020-04-11"
     }
 }

@@ -1,93 +1,5 @@
 {
     "questions": {
-        "QuestionSmoker": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionLung": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionDiabetes": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionHeart": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionAdipositas": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 4
-            }
-        },
-        "QuestionPregnancy": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "notsure": 0,
-                "yes": 0
-            }
-        },
-        "QuestionCortison": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionImunSuppressiva": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionInfluenzaVaccination": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 10,
-                "yes": 0
-            }
-        },
-        "QuestionArticularRheumatism": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 10
-            }
-        },
-        "QuestionChemotherapy": {
-            "group": "RiskGroup",
-            "answers": {
-                "no": 0,
-                "yes": 20
-            }
-        },
-        "QuestionAge": {
-            "group": "RiskGroup",
-            "answers": {
-                "age00": 0,
-                "age20": 1,
-                "age40": 2,
-                "age60": 4,
-                "age80": 8
-            }
-        },
         "QuestionContact": {
             "group": "InfectionRisk",
             "answers": {
@@ -202,6 +114,94 @@
             "answers": {
                 "no": 0,
                 "yes": 0
+            }
+        },
+        "QuestionLung": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionDiabetes": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionHeart": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionAdipositas": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 4
+            }
+        },
+        "QuestionPregnancy": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "notsure": 0,
+                "yes": 0
+            }
+        },
+        "QuestionCortison": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionImunSuppressiva": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionInfluenzaVaccination": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 10,
+                "yes": 0
+            }
+        },
+        "QuestionArticularRheumatism": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 10
+            }
+        },
+        "QuestionChemotherapy": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
+            }
+        },
+        "QuestionAge": {
+            "group": "RiskGroup",
+            "answers": {
+                "age00": 0,
+                "age20": 1,
+                "age40": 2,
+                "age60": 4,
+                "age80": 8
+            }
+        },
+        "QuestionSmoker": {
+            "group": "RiskGroup",
+            "answers": {
+                "no": 0,
+                "yes": 20
             }
         }
     },

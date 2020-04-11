@@ -6,7 +6,7 @@ namespace Tioranat\Controller\Translation;
 class GetJSON {
     
     static function getSurveyFileName() {
-        return __DIR__ . "/survey.json";
+        return __DIR__ . "/../survey.json";
     }
     
     static function getSurveyAsJSON(){

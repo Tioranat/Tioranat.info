@@ -5,10 +5,10 @@
             "answers": {
                 "never": 0,
                 "maybe": 20,
-                "day1ago": 30,
-                "day3ago": 50,
-                "day7ago": 50,
-                "day14ago": 0
+                "day1ago": 20,
+                "day3ago": 20,
+                "day7ago": 20,
+                "day14ago": 20
             }
         },
         "QuestionTravelDaysAgo": {
@@ -16,33 +16,33 @@
             "answers": {
                 "never": 0,
                 "maybe": 1,
-                "day1ago": 2,
-                "day3ago": 2,
-                "day7ago": 2,
-                "day14ago": 0
+                "day1ago": 10,
+                "day3ago": 10,
+                "day7ago": 10,
+                "day14ago": 10
             }
         },
         "QuestionFeverLast24h": {
             "group": "InfectionRisk",
             "answers": {
                 "fever37": 0,
-                "fever38": 3,
-                "fever39": 8
+                "fever38": 10,
+                "fever39": 10
             }
         },
         "QuestionFeverLast4d": {
             "group": "InfectionRisk",
             "answers": {
                 "fever37": 0,
-                "fever38": 3,
-                "fever39": 8
+                "fever38": 10,
+                "fever39": 10
             }
         },
         "QuestionChills": {
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "yes": 2
+                "yes": 3
             }
         },
         "QuestionFatigue": {
@@ -50,7 +50,7 @@
             "answers": {
                 "no": 0,
                 "notsure": 1,
-                "yes": 10
+                "yes": 13
             }
         },
         "QuestionBodyAches": {
@@ -70,22 +70,22 @@
         "QuestionRunnyNose": {
             "group": "InfectionRisk",
             "answers": {
-                "no": 1,
-                "yes": 0
+                "no": 0,
+                "yes": 1
             }
         },
         "QuestionDiariah": {
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "yes": 1
+                "yes": 15
             }
         },
         "QuestionSoreThroat": {
             "group": "InfectionRisk",
             "answers": {
-                "no": 5,
-                "yes": 0
+                "no": 0,
+                "yes": 20
             }
         },
         "QuestionHeadAche": {
@@ -113,7 +113,7 @@
             "group": "InfectionRisk",
             "answers": {
                 "no": 0,
-                "yes": 0
+                "yes": 2
             }
         },
         "QuestionLung": {
@@ -141,7 +141,7 @@
             "group": "RiskGroup",
             "answers": {
                 "no": 0,
-                "yes": 4
+                "yes": 3
             }
         },
         "QuestionPregnancy": {
@@ -206,6 +206,6 @@
         }
     },
     "status": {
-        "date": "2020-04-11"
+        "date": "2020-04-25"
     }
 }
